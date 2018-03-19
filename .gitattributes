@@ -1,3 +1,4 @@
 2018-03-formation-jupyter-notebooks-pandas/2018-03-15-arve/data/*.csv filter=lfs diff=lfs merge=lfs -text
 2018-03-formation-jupyter-notebooks-pandas/2018-03-15-arve/data/*.txt filter=lfs diff=lfs merge=lfs -text
+2018-03-formation-jupyter-notebooks-pandas/2018-03-15-arve/data/*.zip filter=lfs diff=lfs merge=lfs -text
 2018-03-formation-jupyter-notebooks-pandas/2018-03-14-cmu/data/*.csv filter=lfs diff=lfs merge=lfs -text
